@@ -1,6 +1,6 @@
 # Fetal-health-prediction-using-machine-learning
 
-##1) Mengumpulkan dataset
+## 1) Mengumpulkan dataset
 Data yang digunakan merupakan data tentang fetal health  yang berisi kumpulan data CTG yang digunakan untuk menilai kesehatan janin yang digunakan profesional kesehatan untuk mengambil tindakan untuk mencegah kematian anak dan ibu.  Data ini berjumlah 2126 yang terdiri dari 22 kolom dengan 21 fature dan 1 target. Data ini sendiri bersumber dari https://drive.google.com/file/d/1tNtzZ25FPpZ1-ooy9LNsgzNg8FCVdQ6Z/view
 
  Features :
